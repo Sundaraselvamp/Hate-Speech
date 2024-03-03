@@ -4,3 +4,4 @@ spacy
 scikit-learn
 matplotlib
 wordcloud
+statsmodels
