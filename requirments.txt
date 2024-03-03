@@ -1,0 +1,6 @@
+ipykernel
+pandas
+spacy
+scikit-learn
+matplotlib
+wordcloud
