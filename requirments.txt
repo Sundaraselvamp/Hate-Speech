@@ -3,5 +3,6 @@ pandas
 spacy
 scikit-learn
 matplotlib
+seaborn
 wordcloud
 statsmodels
