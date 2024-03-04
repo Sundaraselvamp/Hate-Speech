@@ -7,3 +7,4 @@ seaborn
 wordcloud
 statsmodels
 datefinder
+tensorflow
