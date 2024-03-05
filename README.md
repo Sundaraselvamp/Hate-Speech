@@ -1,4 +1,4 @@
-Project Title: Hate Speech Detection and Mitigation
+Project Title: Hate Speech Detection
 
 Abstract:
   This project aims to develop a predictive model for identifying hate speech in online platforms through a comprehensive approach encompassing contextual analysis, temporal analysis, user profiling, geospatial analysis, false positive/negative analysis, and hate speech detection. By addressing these aspects, the project seeks to enhance our understanding of hate speech dynamics, identify patterns and trends over time, profile users prone to engaging in hate speech, analyze geographic distributions, evaluate model performance, and ultimately develop effective strategies to detect and mitigate hate speech online.
