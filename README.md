@@ -35,7 +35,7 @@ The project code is organized into the following modules:
   1.	contextual_analysis.ipynb: Contains code for contextual analysis
   2.	temporal_analysis.ipynb: Contains code for temporal analysis
   3.	user_profiling.ipynb: Contains code for user profiling
-  4.	hate_speech_detection.ipynb: Contains code for hate speech detection
+  4.	hate_speech_detection_model.ipynb: Contains code for hate speech detection
 
 Prerequisites:
   •	Python 3.x
@@ -46,6 +46,7 @@ Prerequisites:
   •	Scikit-learn
   •	TensorFlow or Keras
   •	Spacy
+  •	Transformers
 
 Usage:
 Clone the project repository:
@@ -61,3 +62,5 @@ Evaluation Metrics:
   •	Precision
   •	Recall
   •	F1-score
+  •	False Positive
+  •	False Negative
