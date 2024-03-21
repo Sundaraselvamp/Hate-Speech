@@ -7,6 +7,6 @@ seaborn
 wordcloud
 statsmodels
 datefinder
-tensorflow
 transformers
-keras 
+tensorflow
+streamlit
